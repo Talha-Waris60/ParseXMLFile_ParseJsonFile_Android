@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record>
+
+    <place>
+        <City_Name>Faisalabad</City_Name>
+        <Latitude>12.295</Latitude>
+        <Longitude>78.93</Longitude>
+        <Temperature>25</Temperature>
+        <Humidity>89%</Humidity>
+    </place>
+
+</record>
